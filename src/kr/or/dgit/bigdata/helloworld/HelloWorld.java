@@ -6,5 +6,7 @@ public class HelloWorld {
 		System.out.println("HotFix에서 작업");
 		System.out.println("master에서 추가");
 		System.out.println("의도적으로 충돌작업");
+		
+		System.out.println("github와의 연결작업1");
 	}
 }
